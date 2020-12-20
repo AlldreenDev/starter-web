@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+This is a study project to understand GIT and its usage
+
 ## Intoduction
 
 This repository is for showing how Git and GitHub work
