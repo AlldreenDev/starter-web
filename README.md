@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 Changes in deployment
 
 ## Conclusion
+
+This is a markdown file
